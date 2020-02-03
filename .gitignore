@@ -11,8 +11,10 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+.properties
 *.iws
 *.iml
+.sql
 *.ipr
 .target
 crowdfunding.iml
